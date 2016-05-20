@@ -599,16 +599,20 @@
 				.neos-img-label {
 					padding: 0 0 $defaultMargin $tightMargin;
 					position: relative;
-					font-size: 12px;
 
 					.neos-caption {
 						margin-right: $wideMargin;
 						display: block;
+						font-size: 12px;
 						line-height: 1.2;
 						color: $textSubtleLight;
 						overflow: hidden;
 						text-overflow: ellipsis;
 						white-space: nowrap;
+					}
+
+					.neos-dropdown {
+						font-size: 14px;
 					}
 
 					> img {
@@ -825,7 +829,7 @@
 
 			.neos-dropdown {
 				display: inline-block;
-				font-size: 12px;
+				font-size: 14px;
 			}
 
 			.neos-modal {
