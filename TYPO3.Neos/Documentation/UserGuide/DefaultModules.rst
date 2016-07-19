@@ -4,7 +4,7 @@
 Default NEOS modules
 =====================
 
-.. figure:: Images/UserInterface.png
+.. figure:: Images/DefaultModules.png
    :alt: NEOS default modules
    :class: screenshot-fullsize
 
