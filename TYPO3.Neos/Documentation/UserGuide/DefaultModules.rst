@@ -6,7 +6,6 @@ Default NEOS modules
 
 .. figure:: Images/DefaultModules.png
    :alt: NEOS default modules
-   :class: screenshot-fullsize
 
 In order of appearance from top to bottom, the following modules are available in a default installation of NEOS 2.x.x:
 
